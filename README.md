@@ -21,28 +21,6 @@ Grazie a un mix di competenze trasversali, aiuto aziende e utenti a:
 
 ---
 
-## 🎯 Progetti in Evidenza
-
-### 1️⃣ **[Nome del Progetto UX/UI](https://linkprogetto1.com)**
-Un’applicazione che migliora [descrizione breve].  
-🎨 **Focus:** Interfacce intuitive e design inclusivo.  
-📈 **Risultati:** Riduzione del tempo di apprendimento del 30%.
-
-### 2️⃣ **Dashboard Interattiva per Analisi dei Dati**
-Una soluzione che trasforma grandi volumi di dati in visualizzazioni chiare e azionabili.  
-📊 **Strumenti usati:** Python (Pandas, Matplotlib, Plotly), Tableau, Excel avanzato.  
-🚀 **Risultati:** Decisioni aziendali più rapide grazie a una rappresentazione grafica ottimizzata.
-
-### 3️⃣ **ChatBot Aziendale (Work in Progress)**
-Sto sviluppando un chatbot basato su AI per fornire informazioni aziendali in modo immediato e intuitivo.  
-🤖 **Tecnologie:** Python, NLP (Natural Language Processing), OpenAI API.  
-✨ **Caratteristiche principali:**  
-- Risposte rapide e accurate alle domande dei dipendenti.  
-- Integrazione con database aziendali.  
-- Capacità di apprendimento continuo per migliorare nel tempo.
-
----
-
 ## 🚀 Cosa Mi Distingue
 ✅ **Versatilità**: Competenze che spaziano dal design all’analisi e sviluppo AI.  
 ✅ **Visual Storytelling**: Rappresentare i dati in modo chiaro e coinvolgente è una mia specialità.  
