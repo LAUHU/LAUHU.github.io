@@ -1,4 +1,5 @@
-# 🌟 Portfolio Alessandro Laurino | UX/UI Designer, Data Scientist & AI Developer
+# 🌟 Portfolio Alessandro Laurino
+# UX/UI Designer, Data Scientist & AI Developer
 
 **Benvenuto nel mio portfolio ufficiale!** 🎨📊🤖  
 Sono un professionista multidisciplinare che unisce **design UX/UI**, **analisi dei dati** e **intelligenza artificiale** per creare soluzioni innovative. Dai un'occhiata ai miei progetti per scoprire il mio approccio alla progettazione, all’analisi e allo sviluppo.
