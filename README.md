@@ -1,14 +1,13 @@
-# 🌟 Portfolio UX/UI di [Il Tuo Nome]
-
+# 🌟 Portfolio UX/UI di Alessandro Laurino
 **Benvenuto nel mio portfolio ufficiale!** 🎨  
 Sono un designer esperto di **UX/UI** con una passione per creare esperienze digitali intuitive e coinvolgenti. Dai un'occhiata ai miei progetti, scopri il mio processo di design e lasciati ispirare!
 
-🌐 **Visita il Portfolio:** [https://tuonomeutente.github.io](https://tuonomeutente.github.io)
+🌐 **Visita il Portfolio:** [https://lauhu.github.io](https://lauhu.github.io)
 
 ---
 
 ## 🖌️ Chi Sono
-👋 Ciao! Mi chiamo **[Il Tuo Nome]** e mi occupo di progettare interfacce utente che combinano estetica e funzionalità.  
+👋 Ciao! Mi chiamo Alessandro Laurino e mi occupo di progettare interfacce utente che combinano estetica e funzionalità.  
 Con un occhio attento al dettaglio e un approccio user-centered, trasformo idee complesse in esperienze digitali semplici e fluide.
 
 ### 💡 Cosa troverai qui:
