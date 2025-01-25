@@ -4,7 +4,7 @@
 **Benvenuto nel mio portfolio ufficiale!** 🎨📊🤖  
 Sono un professionista multidisciplinare che unisce **design UX/UI**, **analisi dei dati** e **intelligenza artificiale** per creare soluzioni innovative. Dai un'occhiata ai miei progetti per scoprire il mio approccio alla progettazione, all’analisi e allo sviluppo.
 
-🌐 **Visita il Portfolio:** [https://tuonomeutente.github.io](https://tuonomeutente.github.io)
+🌐 **Visita il Portfolio:** [https://lauhu.github.io](https://lauhu.github.io)
 
 ---
 
